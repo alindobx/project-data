@@ -11,7 +11,8 @@
         "regular": {
           "small": "./assets/thumbnails/beyond-earth/regular/small.jpg",
           "medium": "./assets/thumbnails/beyond-earth/regular/medium.jpg",
-          "large": "./assets/thumbnails/beyond-earth/regular/large.jpg"
+          "large": "./assets/thumbnails/beyond-earth/regular/large.jpg",
+          "tredning": "./assets/thumbnails/beyond-earth/trending/large.jpg"
         }
       },
       "year": 2019,
@@ -31,7 +32,8 @@
         "regular": {
           "small": "./assets/thumbnails/bottom-gear/regular/small.jpg",
           "medium": "./assets/thumbnails/bottom-gear/regular/medium.jpg",
-          "large": "./assets/thumbnails/bottom-gear/regular/large.jpg"
+          "large": "./assets/thumbnails/bottom-gear/regular/large.jpg",
+          "tredning":"./assets/thumbnails/bottom-gear/trending/large.jpg"
         }
       },
       "year": 2021,
@@ -51,7 +53,8 @@
         "regular": {
           "small": "./assets/thumbnails/undiscovered-cities/regular/small.jpg",
           "medium": "./assets/thumbnails/undiscovered-cities/regular/medium.jpg",
-          "large": "./assets/thumbnails/undiscovered-cities/regular/large.jpg"
+          "large": "./assets/thumbnails/undiscovered-cities/regular/large.jpg",
+          "trending":"./assets/thumbnails/undiscovered-cities/trending/large.jpg"
         }
       },
       "year": 2019,
@@ -71,7 +74,8 @@
         "regular": {
           "small": "./assets/thumbnails/1998/regular/small.jpg",
           "medium": "./assets/thumbnails/1998/regular/medium.jpg",
-          "large": "./assets/thumbnails/1998/regular/large.jpg"
+          "large": "./assets/thumbnails/1998/regular/large.jpg",
+          "trending": "./assets/thumbnails/1998/trending/large.jpg"
         }
       },
       "year": 2021,
@@ -91,7 +95,8 @@
         "regular": {
           "small": "./assets/thumbnails/dark-side-of-the-moon/regular/small.jpg",
           "medium": "./assets/thumbnails/dark-side-of-the-moon/regular/medium.jpg",
-          "large": "./assets/thumbnails/dark-side-of-the-moon/regular/large.jpg"
+          "large": "./assets/thumbnails/dark-side-of-the-moon/regular/large.jpg",
+          "trending": "./assets/thumbnails/dark-side-of-the-moon/trending/large.jpg"
         }
       },
       "year": 2018,
